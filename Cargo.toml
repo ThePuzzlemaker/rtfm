@@ -1,0 +1,17 @@
+[package]
+name = "rtfm"
+version = "0.1.0"
+authors = ["ThePuzzlemaker <tpzker@thepuzzlemaker.info>"]
+edition = "2018"
+license = "MIT"
+description = "Open the Arch Wiki search page for a string from the command line"
+readme = "README.md"
+homepage = "https://github.com/ThePuzzlemaker/rtfm"
+repository = "https://github.com/ThePuzzlemaker/rtfm/"
+keywords = ["cli", "arch"]
+categories = ["command-line-utilities"]
+
+[dependencies]
+clap = "2.33.1"
+opener = "0.4.1"
+urlencoding = "1.1.1"
