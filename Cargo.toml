@@ -12,6 +12,6 @@ keywords = ["cli", "arch"]
 categories = ["command-line-utilities"]
 
 [dependencies]
-clap = "2.33.1"
+clap = "2.33.3"
 opener = "0.4.1"
 urlencoding = "1.3.1"
